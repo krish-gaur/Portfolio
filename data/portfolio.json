@@ -1,0 +1,782 @@
+{
+  "meta": {
+    "title": "Krish Gaur — AI Engineer & AI Red Teaming Engineer",
+    "description": "Krish Gaur builds LLM/RAG systems, LLM security tooling, and digital-forensics products. AI / security / systems, from Delhi, India.",
+    "siteUrl": ""
+  },
+  "profile": {
+    "name": "Krish Gaur",
+    "heroTitle": [
+      "I build systems",
+      "for the edge."
+    ],
+    "heroDescription": "From AI products to AI security, I build things that make the hard parts more concrete.",
+    "headline": "AI Engineer | AI Red Teaming Engineer | AI Educator & Speaker",
+    "secondaryHeadline": "Building AI, Cybersecurity & Blockchain Products",
+    "location": "Delhi, India",
+    "bio": "A computer science student who learns by building: AI workflows, forensic tools, security experiments and communities. Interested in the systems behind intelligent products—and in testing where they fail.",
+    "availability": "Open to conversations about AI, security, and building.",
+    "focus": [
+      "Artificial Intelligence",
+      "LLMs",
+      "Generative AI",
+      "AI Red Teaming",
+      "Cybersecurity",
+      "RAG",
+      "Agentic AI",
+      "NLP",
+      "Deep Learning",
+      "Developer Tools"
+    ],
+    "community": "Codverse Society",
+    "resume": {
+      "url": "/resume/krish-gaur-resume.pdf",
+      "fileName": "Krish_Gaur_Resume.pdf",
+      "ai_context": "Source: the two clean resume pages extracted from the supplied PDF package. Education: B.Tech, Computer Science & Engineering, MERI College (affiliated to MDU), expected 2029. Experience: AI & ML Intern at Coding Arena, Mar 2026–Jun 2026; RAG pipelines with embeddings, vector search and contextual retrieval; Python/FastAPI backend services and REST APIs for LLM inference, NLP and machine-learning data workflows; prompt iteration, test-case validation, response-quality checks and pipeline configuration tuning. Software Trainee at Duastro, Feb 2025–May 2025; website maintenance, SEO, content and on-page improvements. Projects: Jailbreak Oracle (Python, FastAPI, PostgreSQL/pgvector, LiteLLM, Next.js, React; multi-agent LLM red-teaming; authorized BYO-API testing; independent verification and evidence-grounded reporting); ForgeX (Python 3.12, WebSockets, RAG; FQL, OS-level evidence collectors, authenticated case management, real-time investigation services, evidence-grounded analysis; working prototype, third place at Code Manthan internal SIH round); GhostLine-AI (Python, FastAPI, RAG, FAISS, embeddings; document processing, intelligent chunking, semantic retrieval, citation-grounded multi-document answers, conversational context and streaming). Achievements and events: 5× hackathon winner; top-five in 25+ of 50+ hackathons; third place at Code Manthan for ForgeX; participation in 20+ technical events/workshops/sessions, including Microsoft, Google, Paytm and Master Union. Resume-listed skills: Python, JavaScript, TypeScript, Java, LLMs, Generative AI, RAG, NLP, Deep Learning, Embeddings, Vector Databases, Prompt Engineering, FastAPI, Node.js, React, Next.js, REST APIs, OpenAI, LangChain, LiteLLM, Ollama, Gemini, Groq, PostgreSQL, pgvector, MongoDB, MySQL, Supabase, Redis, Kafka, NATS and Git.",
+      "summary": "The resume records a B.Tech in Computer Science & Engineering at MERI College (MDU-affiliated, expected 2029), AI & ML internship experience at Coding Arena, and software trainee experience at Duastro. Its project work centers on LLM/RAG systems, LLM security and digital forensics, with GhostLine-AI as a document-intelligence project. It lists five hackathon wins and top-five finishes in 25+ of 50+ hackathons.",
+      "experience": [
+        "AI & ML Intern — Coding Arena (Mar 2026–Jun 2026): engineered RAG pipelines for LLM applications using embedding generation, vector search and contextual retrieval; developed Python/FastAPI backend services and REST APIs for LLM inference, NLP and machine-learning data workflows; evaluated outputs through prompt iteration, test-case validation, response-quality checks and pipeline tuning.",
+        "Software Trainee — Duastro (Feb 2025–May 2025): maintained and optimized the company website; implemented SEO, content and on-page improvements."
+      ],
+      "project_highlights": [
+        "Jailbreak Oracle — adaptive LLM red-teaming and vulnerability discovery for authorized testing. Technologies listed: Python, FastAPI, PostgreSQL/pgvector, LiteLLM, Next.js and React. The resume describes Attacker, Evaluator, Verifier and Defender agents, campaign orchestration, BYO-API testing, independent verification, retrieval and evidence-grounded reporting.",
+        "ForgeX — AI-powered digital-forensics and investigation platform. Technologies listed: Python 3.12, WebSockets and RAG. The resume describes FQL, OS-level evidence collectors, authenticated case management, real-time investigation services, and evidence-grounded analysis; it records a working prototype and third place at Code Manthan, MERI College’s internal SIH round.",
+        "GhostLine-AI — enterprise AI knowledge and document-intelligence platform. Technologies listed: Python, FastAPI, RAG, FAISS and embeddings. The resume describes document processing, intelligent chunking, semantic retrieval, citation-grounded and multi-document answers, conversational context and streaming."
+      ],
+      "skills": [
+        "Languages: Python, JavaScript, TypeScript, Java",
+        "AI/ML: LLMs, Generative AI, RAG, NLP, Deep Learning, Embeddings, Vector Databases, Prompt Engineering",
+        "Frameworks/APIs: FastAPI, Node.js, React, Next.js, REST APIs, OpenAI, LangChain, LiteLLM, Ollama, Gemini, Groq",
+        "Data/Infrastructure: PostgreSQL, pgvector, MongoDB, MySQL, Supabase, Redis, Kafka, NATS, Git"
+      ],
+      "achievements": [
+        "5× hackathon winner; top-five finisher in 25+ of 50+ hackathons across AI/ML, Generative AI, cybersecurity, blockchain and web development.",
+        "Third place at Code Manthan, MERI College’s internal SIH-preparation hackathon, for ForgeX.",
+        "Participated in 20+ technical events, workshops and developer sessions hosted by organizations including Microsoft, Google, Paytm and Master Union."
+      ],
+      "community": [
+        "Participated in 20+ technical events, workshops and developer sessions, including events hosted by Microsoft, Google, Paytm and Master Union."
+      ]
+    },
+    "looking_for": null,
+    "avatar": {
+      "portrait": "/avatar/krish-hologram.webp",
+      "alt": "Holographic portrait of Krish Gaur"
+    }
+  },
+  "stats": {
+    "hackathonTopFive": "25+",
+    "hackathonWins": "5×",
+    "namedHackathonResult": "3rd place",
+    "followers": null,
+    "leetcode": null,
+    "dsa": null
+  },
+  "skills": {
+    "categories": [
+      {
+        "id": "ai-ml",
+        "label": "AI / ML",
+        "eyebrow": "01 — intelligence",
+        "items": [
+          "LLMs",
+          "Generative AI",
+          "RAG",
+          "NLP",
+          "Deep Learning",
+          "Embeddings",
+          "Prompt Engineering",
+          "Agentic AI"
+        ]
+      },
+      {
+        "id": "engineering",
+        "label": "Engineering",
+        "eyebrow": "02 — systems",
+        "items": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Java",
+          "FastAPI",
+          "Node.js",
+          "React",
+          "Next.js",
+          "REST APIs"
+        ]
+      },
+      {
+        "id": "infrastructure",
+        "label": "AI infrastructure",
+        "eyebrow": "03 — runtime",
+        "items": [
+          "OpenAI",
+          "LangChain",
+          "LiteLLM",
+          "Pinecone",
+          "Chroma",
+          "Ollama",
+          "Groq",
+          "Gemini"
+        ]
+      },
+      {
+        "id": "data",
+        "label": "Data systems",
+        "eyebrow": "04 — memory",
+        "items": [
+          "PostgreSQL",
+          "MongoDB",
+          "MySQL",
+          "Supabase",
+          "Redis"
+        ]
+      },
+      {
+        "id": "systems",
+        "label": "Distributed systems",
+        "eyebrow": "05 — signal",
+        "items": [
+          "Kafka",
+          "NATS"
+        ]
+      },
+      {
+        "id": "security",
+        "label": "Security",
+        "eyebrow": "06 — adversarial",
+        "items": [
+          "AI Red Teaming",
+          "LLM Security",
+          "Cybersecurity",
+          "Prompt Injection",
+          "Adversarial Testing"
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "coding-arena",
+      "company": "Coding Arena",
+      "roles": [
+        "AI & ML Intern"
+      ],
+      "dateRange": "25 March 2026 – 15 June 2026",
+      "summary": "Engineered RAG pipelines for LLM applications; built Python/FastAPI backend services and REST APIs; evaluated model outputs through prompt iteration, test cases, and response-quality checks.",
+      "work": [
+        "RAG pipelines for LLM applications using embedding generation, vector search, and contextual retrieval",
+        "Python/FastAPI backend services and REST APIs for LLM inference, NLP, and machine-learning data workflows",
+        "Prompt iteration, test-case validation, response-quality checks, and pipeline configuration tuning"
+      ]
+    },
+    {
+      "id": "duastro",
+      "company": "Duastro",
+      "roles": [
+        "Software Trainee"
+      ],
+      "dateRange": "10 February 2025 – 10 May 2025",
+      "summary": "Maintained and optimized the company website, with SEO, content, and on-page improvements.",
+      "work": [
+        "Website maintenance and optimization",
+        "SEO",
+        "Content and on-page improvements"
+      ]
+    },
+    {
+      "id": "inlox",
+      "company": "Inlox",
+      "roles": [
+        "Campus Ambassador"
+      ],
+      "dateRange": null,
+      "summary": "Represented Inlox in a campus-facing ambassador role.",
+      "work": []
+    },
+    {
+      "id": "codverse",
+      "company": "Codverse Society",
+      "roles": [
+        "President"
+      ],
+      "dateRange": null,
+      "summary": "Leading a student developer community around AI, collaboration, and hands-on technical events.",
+      "work": [
+        "AI community",
+        "Developer community",
+        "Workshops",
+        "Technical events",
+        "Student collaboration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "forgex",
+      "name": "ForgeX",
+      "category": "Digital forensics / Cybersecurity / AI",
+      "descriptor": "Investigation, made queryable.",
+      "description": "A dedicated forensic investigation platform designed around structured forensic querying, evidence collection, investigation workflows, and AI-assisted evidence analysis.",
+      "problem": "Investigating fragmented forensic evidence across heterogeneous system sources.",
+      "solution": "A unified workflow for evidence collection, querying, correlation and reproducible case investigations, with evidence-grounded AI analysis.",
+      "architecture": [
+        "Forensic Query Language (FQL)",
+        "OS-level evidence collectors",
+        "Authenticated case management",
+        "Real-time investigation services",
+        "Embeddings and RAG",
+        "Structured outputs tied to source evidence"
+      ],
+      "features": [
+        "Forensic Query Language",
+        "Evidence collection across system sources",
+        "Evidence querying and correlation",
+        "Reproducible case workflows",
+        "OS-level evidence collectors",
+        "Authenticated case management",
+        "Real-time investigation services",
+        "Evidence-grounded AI analysis"
+      ],
+      "technologies": [
+        "Python 3.12",
+        "WebSockets",
+        "RAG"
+      ],
+      "impact": "Designed to make complex evidence easier to query, organize, and investigate.",
+      "artwork": "forensics",
+      "accent": "cyan",
+      "status": "In development",
+      "long_description": "ForgeX is a dedicated forensic investigation environment centered on structured querying, evidence collection, and investigation workflows. The supplied project brief describes a Forensic Query Language, an investigation workspace, OS data collection, evidence-grounded reasoning, authentication, and real-time investigation updates. AI-assisted analysis is intended to help investigators work with evidence rather than detached summaries. The project is listed as in development.",
+      "metadata": [
+        "DIGITAL FORENSICS",
+        "CYBERSECURITY",
+        "AI"
+      ],
+      "deployment": {
+        "url": "https://forge-x-bice.vercel.app/",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [
+        "Investigating fragmented evidence across heterogeneous system sources",
+        "Maintaining traceability between generated findings and the underlying evidence"
+      ],
+      "ai_components": [
+        "Embeddings and retrieval-augmented generation",
+        "Structured AI outputs",
+        "Evidence-grounded analysis with traceability to source evidence"
+      ],
+      "achievements": [
+        "Built and demonstrated a working prototype; placed third at Code Manthan, MERI College’s internal SIH-preparation round."
+      ],
+      "ai_context": "Resume-backed details: Python 3.12, WebSockets and RAG; FQL (Forensic Query Language); OS-level evidence collectors; authenticated case management and real-time investigation services; embeddings, RAG and structured outputs for evidence-grounded analysis; working prototype; third place at Code Manthan, MERI College internal SIH-preparation round. Status remains In development. Live URL is taken from the supplied resume. Do not infer other technologies or outcomes."
+    },
+    {
+      "id": "jailbreak-oracle",
+      "name": "Jailbreak Oracle",
+      "category": "AI Red Teaming / LLM Security",
+      "descriptor": "Probe the boundary. Verify the result.",
+      "description": "An adaptive LLM red-teaming and vulnerability-discovery platform for authorized testing of AI systems.",
+      "problem": "Static prompt datasets and manually crafted attacks can provide limited coverage against evolving LLM defenses.",
+      "solution": "An adaptive red-teaming workflow that generates and evaluates attack strategies, with an independent verification layer for findings.",
+      "architecture": [
+        "Attacker, Evaluator, Verifier and Defender agents",
+        "Campaign orchestration",
+        "BYO-API testing through LiteLLM",
+        "Independent verification of evaluator findings",
+        "PostgreSQL/pgvector retrieval",
+        "Evidence-grounded vulnerability reporting"
+      ],
+      "features": [
+        "Adaptive attack generation and evaluation",
+        "Authorized testing of user-supplied LLM endpoints",
+        "Attacker, Evaluator, Verifier and Defender agents",
+        "Campaign orchestration",
+        "Independent dual verification",
+        "pgvector-backed retrieval",
+        "Evidence-grounded vulnerability reports"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL / pgvector",
+        "LiteLLM",
+        "Next.js",
+        "React"
+      ],
+      "impact": "Built to make AI security testing more systematic and inspectable.",
+      "artwork": "oracle",
+      "accent": "cyan",
+      "status": "Open source",
+      "long_description": "Jailbreak Oracle is an adaptive platform for authorized testing of language-model security. Its supplied design brings attacker, evaluator, verifier, and defender roles into campaign orchestration, with automated attack generation, vulnerability discovery, dual verification, BYOA model endpoints, and structured logs. The project brief frames this as a structured model-security testing workflow. No measured impact or deployment details have been supplied.",
+      "metadata": [
+        "AI",
+        "RED TEAMING",
+        "LLM SECURITY"
+      ],
+      "deployment": {
+        "url": "",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "https://github.com/Vagisha13/JailBreak-Oracle",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [
+        "Expanding test coverage beyond static prompt datasets and manually crafted attacks as LLM defenses evolve"
+      ],
+      "ai_components": [
+        "Attacker, Evaluator, Verifier and Defender agents",
+        "Adaptive attack generation and evaluation",
+        "Independent verification",
+        "pgvector retrieval and evidence-grounded reporting"
+      ],
+      "achievements": [],
+      "ai_context": "Resume-backed stack: Python, FastAPI, PostgreSQL/pgvector, LiteLLM, Next.js and React. The resume describes Attacker, Evaluator, Verifier and Defender agents, campaign orchestration, authorized BYO-API tests, independent verification, pgvector-backed retrieval and evidence-grounded reporting. Repository URL canonicalizes to github.com/Vagisha13/JailBreak-Oracle. No deployment or measured impact is listed."
+    },
+    {
+      "id": "ghostline-ai",
+      "name": "GhostLine-AI",
+      "category": "AI / RAG / Document Intelligence",
+      "descriptor": "Private knowledge, made retrievable.",
+      "description": "An AI knowledge and document-intelligence platform for natural-language search and reasoning across private documents.",
+      "long_description": "GhostLine-AI is described in the supplied resume as an enterprise AI knowledge and document-intelligence platform for PDFs, SOPs, contracts and reports. Its document-to-answer workflow uses document processing, intelligent chunking, embeddings and FAISS semantic retrieval, then returns citation-grounded answers across multiple documents. The resume also lists conversational context, streaming responses and a FastAPI backend.",
+      "problem": "Searching and reasoning over fragmented private documents can be difficult and time-consuming.",
+      "solution": "A natural-language document Q&A workflow that retrieves relevant source passages and grounds answers in those documents.",
+      "architecture": [
+        "Document processing",
+        "Intelligent chunking and embedding generation",
+        "FAISS semantic retrieval",
+        "Citation-grounded answer generation",
+        "Multi-document retrieval",
+        "Conversational context and streaming",
+        "FastAPI backend"
+      ],
+      "features": [
+        "Natural-language questions over private documents",
+        "Document-to-answer RAG pipeline",
+        "Intelligent chunking and semantic retrieval",
+        "Citation-grounded responses",
+        "Multi-document retrieval",
+        "Conversational context",
+        "Streaming responses"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "RAG",
+        "FAISS",
+        "Embeddings"
+      ],
+      "impact": null,
+      "artwork": "knowledge",
+      "accent": "cyan",
+      "status": "",
+      "metadata": [
+        "AI",
+        "RAG",
+        "DOCUMENT INTELLIGENCE"
+      ],
+      "deployment": {
+        "url": "https://ghost-line-ai-delta.vercel.app/",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [
+        "Searching and reasoning over fragmented private documents such as PDFs, SOPs, contracts and reports"
+      ],
+      "ai_components": [
+        "Document-to-answer RAG pipeline",
+        "Embedding generation and FAISS retrieval",
+        "Citation-grounded, multi-document responses",
+        "Conversational context and streaming"
+      ],
+      "achievements": [],
+      "ai_context": "Resume-backed project details: Python, FastAPI, RAG, FAISS and embeddings; document processing, intelligent chunking, semantic retrieval, citation-grounded and multi-document answers, conversational context and streaming. Deployment URL is from the supplied resume. No status, repository or outcome metrics were listed."
+    },
+    {
+      "id": "aiglo",
+      "name": "AiGlo",
+      "category": "AI automation / Startup",
+      "descriptor": "Less busywork. Better business conversations.",
+      "description": "An AI automation platform focused on helping businesses automate customer interactions, lead workflows, CRM operations, and scheduling.",
+      "problem": "Customer conversations and routine follow-up work can fragment across business tools.",
+      "solution": "Bring AI-assisted interactions, lead handling, CRM workflows, and scheduling into an automation-focused product direction.",
+      "architecture": [],
+      "features": [
+        "Customer interactions",
+        "Lead workflows",
+        "CRM operations",
+        "Scheduling"
+      ],
+      "technologies": [],
+      "impact": null,
+      "artwork": "aiglo",
+      "accent": "cyan",
+      "status": "Founder project",
+      "founder": "Krish Gaur",
+      "long_description": "AiGlo is a founder-led AI automation product direction for business workflows. Its stated focus is customer interactions, lead workflows, CRM operations, and scheduling. No deployment, user, or outcome metrics have been supplied.",
+      "metadata": [
+        "AI AUTOMATION",
+        "STARTUP"
+      ],
+      "deployment": {
+        "url": "",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [],
+      "ai_components": [
+        "AI-assisted customer interactions",
+        "Lead and CRM workflow automation"
+      ],
+      "achievements": [],
+      "ai_context": "Known from the portfolio brief: founder project by Krish Gaur; AI automation focused on customer interactions, lead workflows, CRM operations, and scheduling. No deployment, usage, or outcome metrics supplied."
+    },
+    {
+      "id": "alglorythm",
+      "name": "AlGloryThm",
+      "category": "AI community / Education",
+      "descriptor": "A community that learns by making.",
+      "description": "A technical community focused on AI, emerging technologies, developer education, workshops, and building.",
+      "problem": null,
+      "solution": "Create a place for technical learning, workshops, and collaborative building around AI and emerging technology.",
+      "architecture": [],
+      "features": [
+        "AI learning",
+        "Emerging technologies",
+        "Developer education",
+        "Workshops",
+        "Building together"
+      ],
+      "technologies": [],
+      "impact": null,
+      "artwork": "community",
+      "accent": "cyan",
+      "status": "Founder project",
+      "founder": "Krish Gaur",
+      "long_description": "AlGloryThm is a technical community founded around AI, emerging technologies, developer education, workshops, and building. No membership figures or event counts have been supplied.",
+      "metadata": [
+        "AI",
+        "EDUCATION",
+        "COMMUNITY"
+      ],
+      "deployment": {
+        "url": "",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [],
+      "ai_components": [],
+      "achievements": [],
+      "ai_context": "Known from the portfolio brief: founder project by Krish Gaur; technical community focused on AI, emerging technologies, developer education, workshops, and building. No membership or event metrics supplied."
+    },
+    {
+      "id": "chainscribe",
+      "name": "ChainScribe",
+      "category": "Blockchain / Technical project",
+      "descriptor": "An experiment in the chain layer.",
+      "description": "A blockchain-focused technical project. Detailed scope, implementation notes, and outcomes have not been added yet.",
+      "problem": null,
+      "solution": null,
+      "architecture": [],
+      "features": [],
+      "technologies": [],
+      "impact": null,
+      "artwork": "chain",
+      "accent": "cyan",
+      "status": "Project brief pending",
+      "long_description": "A blockchain-focused technical project. The project brief, implementation details, architecture, and outcomes have not been supplied, so this page intentionally avoids filling in those gaps.",
+      "metadata": [
+        "BLOCKCHAIN",
+        "TECHNICAL PROJECT"
+      ],
+      "deployment": {
+        "url": "",
+        "label": "↗ LIVE DEMO",
+        "detailLabel": "OPEN LIVE PROJECT"
+      },
+      "github": {
+        "url": "",
+        "label": "⌘ GITHUB",
+        "detailLabel": "VIEW SOURCE"
+      },
+      "screenshots": [],
+      "challenges": [],
+      "ai_components": [],
+      "achievements": [],
+      "ai_context": "Known from the portfolio brief: a blockchain / technical project named ChainScribe. Its problem, solution, stack, features, status, architecture, links, and outcomes have not been supplied. Do not speculate."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "top-five",
+      "title": "Top 5 in 25+ of 50+ hackathons",
+      "detail": "Top-five finisher in more than 25 of 50+ hackathons across AI/ML, Generative AI, cybersecurity, blockchain, and web development.",
+      "category": "Competition",
+      "metric": "25+",
+      "order": 1
+    },
+    {
+      "id": "five-wins",
+      "title": "5× Hackathon Winner",
+      "detail": "Five hackathon wins across competitive build events.",
+      "category": "Competition",
+      "metric": "05",
+      "order": 2
+    },
+    {
+      "id": "code-manthan",
+      "title": "3rd place · Code Manthan",
+      "detail": "Placed third in the Code Manthan internal hackathon.",
+      "category": "Competition",
+      "metric": "03",
+      "order": 3
+    },
+    {
+      "id": "technical-range",
+      "title": "Builds across the stack of hard problems",
+      "detail": "Project work spans AI, cybersecurity, digital forensics, and blockchain.",
+      "category": "Build record",
+      "metric": "04",
+      "order": 4
+    },
+    {
+      "id": "community-leadership",
+      "title": "Community leadership",
+      "detail": "President of Codverse Society, focused on AI, workshops, technical events, and student collaboration.",
+      "category": "Community",
+      "metric": "01",
+      "order": 5
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "code-manthan",
+      "name": "Code Manthan",
+      "rank": "3rd place",
+      "project": null,
+      "domain": null,
+      "result": "Internal hackathon · third place",
+      "date": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science & Engineering",
+      "institution": "MERI College",
+      "affiliation": "Affiliated with MDU",
+      "expectedGraduation": "2029",
+      "location": "Delhi, India"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "AiGlo",
+      "role": "Founder",
+      "focus": "AI automation for customer interactions, lead workflows, CRM operations, and scheduling."
+    },
+    {
+      "name": "AlGloryThm",
+      "role": "Founder",
+      "focus": "AI, emerging technologies, developer education, workshops, and building."
+    },
+    {
+      "name": "Codverse Society",
+      "role": "President",
+      "focus": "AI, developer community, workshops, technical events, and student collaboration."
+    }
+  ],
+  "about": {
+    "eyebrow": "A work in progress, on purpose",
+    "title": "Student → Builder → Hacker → Founder → Researcher",
+    "stages": [
+      {
+        "label": "Student",
+        "index": "01",
+        "title": "Learn the foundations.",
+        "body": "Studying Computer Science & Engineering at MERI College, affiliated with MDU. Expected graduation: 2029.",
+        "signal": "B.Tech · CSE"
+      },
+      {
+        "label": "Builder",
+        "index": "02",
+        "title": "Make the idea real.",
+        "body": "Turning interests into working product directions across AI automation, digital forensics, and blockchain.",
+        "signal": "Build → test → refine"
+      },
+      {
+        "label": "Hacker",
+        "index": "03",
+        "title": "Ask where it breaks.",
+        "body": "Exploring AI red teaming and LLM security through authorized, structured testing—not security theatre.",
+        "signal": "Adversarial by design"
+      },
+      {
+        "label": "Founder",
+        "index": "04",
+        "title": "Build with other people.",
+        "body": "Founding AiGlo and AlGloryThm, with community leadership through Codverse Society.",
+        "signal": "AiGlo · AlGloryThm"
+      },
+      {
+        "label": "Researcher",
+        "index": "05",
+        "title": "Stay curious at the edge.",
+        "body": "A research-minded track focused on LLMs, retrieval, agentic systems, and the security of intelligent tools.",
+        "signal": "Explore the unknown"
+      }
+    ]
+  },
+  "socials": {
+    "github": {
+      "label": "GitHub",
+      "url": "https://github.com/krish-gaur"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "url": ""
+    },
+    "instagram": {
+      "label": "Instagram",
+      "url": ""
+    },
+    "x": {
+      "label": "X / Twitter",
+      "url": ""
+    },
+    "email": {
+      "label": "Email",
+      "url": "mailto:krishgaur85@gmail.com"
+    },
+    "portfolio": {
+      "label": "Portfolio",
+      "url": ""
+    }
+  },
+  "contact": {
+    "headline": "Let's build something dangerous.",
+    "subhead": "The useful kind. The kind that makes a hard problem less theoretical.",
+    "routes": [
+      {
+        "id": "hire",
+        "label": "Hire me",
+        "intent": "Ask about working with Krish on an AI or engineering role.",
+        "icon": "↗"
+      },
+      {
+        "id": "collaborate",
+        "label": "Collaborate",
+        "intent": "Explore a collaboration with Krish.",
+        "icon": "⌘"
+      },
+      {
+        "id": "build",
+        "label": "Build together",
+        "intent": "Talk through an idea to build together.",
+        "icon": "＋"
+      },
+      {
+        "id": "speak",
+        "label": "Invite me to speak",
+        "intent": "Ask about inviting Krish to speak or teach.",
+        "icon": "◉"
+      },
+      {
+        "id": "security",
+        "label": "Discuss AI / Cybersecurity",
+        "intent": "Start a conversation about AI security, red teaming, or cybersecurity.",
+        "icon": "⌁"
+      }
+    ]
+  },
+  "ai": {
+    "name": "Krish OS",
+    "system_personality": "You are Krish's conversational AI interface: direct, curious, builder-minded, technically fluent, confident, occasionally witty, never corporate. Speak naturally and remember the conversation. You may discuss general topics, not only the portfolio. For personal facts, use only the relevant retrieved portfolio records and resume context; never invent employers, dates, technologies, awards, links, project status, metrics, or opinions attributed to Krish. If a personal detail is absent, say what is and is not documented, then continue with useful context. Do not use generic filler such as 'As an AI assistant', 'I'd be happy to help', or 'Great question'. You represent Krish's digital interface; do not claim to be the real person or to have lived experiences not recorded here. For security topics, frame activity as authorized testing.",
+    "welcome_message": "Hey. I'm Krish's AI interface. Ask me anything about what he builds, his experience, technical interests—or take the conversation somewhere else.",
+    "suggested_questions": [
+      "Why build Jailbreak Oracle?",
+      "Compare ForgeX and Jailbreak Oracle.",
+      "What was the hardest part?",
+      "What kind of AI work is Krish focused on?"
+    ],
+    "fallback_message": "I don't have that personal detail in the portfolio yet. I'll label the gap rather than make one up.",
+    "greeting_message": "Hey. I'm Krish's AI interface. Ask me anything about what he builds, his experience, technical interests—or take the conversation somewhere else.",
+    "general_topics": [
+      {
+        "id": "ai-red-teaming",
+        "triggers": [
+          "ai red teaming",
+          "ai red-teaming",
+          "red teaming in ai",
+          "llm red teaming",
+          "red team an ai",
+          "interesting about red teaming",
+          "what is red teaming"
+        ],
+        "answer": "The interesting part of AI red teaming is that you're not just trying to break a model—you are testing the interaction between its instructions, tools, context, and guardrails. A finding matters when it's reproducible, scoped, and tied to a real risk. Attacker creativity has to meet careful verification."
+      },
+      {
+        "id": "retrieval-augmented-generation",
+        "triggers": [
+          "what is rag",
+          "explain rag",
+          "retrieval augmented generation",
+          "retrieval-augmented generation",
+          "tell me about rag",
+          "how does rag work",
+          "how rag works"
+        ],
+        "answer": "Retrieval-augmented generation, or RAG, lets a model look up relevant material from a chosen collection before it answers. The model can then ground a reply in retrieved passages instead of relying only on what it learned during training. The hard parts are usually retrieval quality, source freshness, and making it clear when the evidence is thin."
+      },
+      {
+        "id": "threat-modeling",
+        "triggers": [
+          "what is threat modeling",
+          "explain threat modeling",
+          "threat modelling",
+          "security threat model"
+        ],
+        "answer": "Threat modeling is a structured way to ask what you're protecting, who or what could threaten it, how an attack might work, and which controls matter most. A useful model stays tied to a real system and changes as the design changes; a long checklist detached from implementation quickly turns into paperwork."
+      },
+      {
+        "id": "prompt-injection",
+        "triggers": [
+          "what is prompt injection",
+          "explain prompt injection",
+          "indirect prompt injection"
+        ],
+        "answer": "Prompt injection is an attempt to make a language-model system treat untrusted input as instructions. It can arrive directly in a user's prompt or indirectly through documents, webpages, or tool results. The risk depends on what the model can access or do, so robust designs separate data from authority and keep sensitive actions behind explicit controls."
+      }
+    ],
+    "general_fallback_message": "That sits outside the small topic set bundled with local mode. Connect the conversational model for open-ended discussion; here I can answer from the portfolio and the general topics it includes. If you meant a personal detail, I'll stick to what's documented."
+  }
+}
