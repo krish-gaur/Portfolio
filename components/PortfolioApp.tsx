@@ -4,7 +4,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import type { FormEvent, ReactNode } from "react";
 import type { PortfolioData } from "@/types/portfolio";
 import Navigation from "@/components/Navigation";
-import Hologram from "@/components/Hologram";
+import SignalField from "@/components/SignalField";
 import AIAssistant from "@/components/ai/Assistant";
 import Projects from "@/components/Projects";
 import Experience from "@/components/Experience";
@@ -139,8 +139,8 @@ export default function PortfolioApp({ data }: { data: PortfolioData }) {
             </div>
             <div className="hero-console">
               <div className="hero-console__frame" aria-hidden="true"><span className="frame-corner frame-corner--tl" /><span className="frame-corner frame-corner--tr" /><span className="frame-corner frame-corner--bl" /><span className="frame-corner frame-corner--br" /><span className="frame-label frame-label--left">FIG 01 / INTERFACE</span><span className="frame-label frame-label--right">SOURCE / PORTFOLIO.JSON</span></div>
-              <Hologram state="idle" onActivate={() => launchAssistant()} onSecret={() => setSecretOpen(true)} name={data.ai.name} portrait={data.profile.avatar.portrait} portraitAlt={data.profile.avatar.alt} />
-              <div className="hero-console__identity"><span className="eyebrow">THIS IS NOT A CHATBOT</span><strong>It's the front door.</strong><span className="hero-console__hint">CLICK THE SIGNAL TO TALK</span></div>
+              <SignalField />
+              <button className="hero-console__identity" type="button" onClick={() => launchAssistant()}><span className="eyebrow">KRISH OS / INTERFACE</span><strong>Ask the system.</strong><span className="hero-console__hint">OPEN THE AI FRONT DOOR ↗</span></button>
             </div>
           </div>
           <div className="hero-identity-rail" aria-hidden="true"><span>{data.profile.name.toUpperCase()}</span><i /><span>AI / SECURITY / BUILD</span></div>
