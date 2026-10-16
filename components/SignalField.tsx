@@ -157,7 +157,7 @@ export default function SignalField() {
       context.setTransform(ratio, 0, 0, ratio, 0, 0);
       simulation?.stop();
 
-      const model = nodes.map((node, index) => ({
+      const model: SignalNode[] = nodes.map((node, index): SignalNode => ({
         ...node,
         x: width * (0.52 + Math.cos(index * 2.3) * 0.24),
         y: height * (0.49 + Math.sin(index * 2.3) * 0.24),
@@ -167,7 +167,7 @@ export default function SignalField() {
         return;
       }
 
-      simulation = forceSimulation(model)
+      simulation = forceSimulation<SignalNode>(model)
         .force(
           "link",
           forceLink<SignalNode, SignalLink>(links.map((link) => ({ ...link })))
